@@ -1,3 +1,7 @@
+// COMSC-210 | Lab 11 | Chevin Jeon 
+// IDE used: VSC
+// Date: 2025-09-18
+
 #include <iostream>   // std::cout, std::endl
 #include <string>     // std::string
 
